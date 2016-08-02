@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[COCAP]]></title>
-        <description><![CDATA[COCAP]]></description>
+        <title><![CDATA[Fantastic!]]></title>
+        <description><![CDATA[Fantastic!]]></description>
         <link>https://thegrid.ai/cocap/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 19:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 19:26:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cocap/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Awesome Title]]></title>
+            <description><![CDATA[<article><h1>Awesome Title</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla in mattis nisl. In volutpat, ligula ac fringilla malesuada, dui massa porttitor justo, at bibendum nulla ex a odio. In hac habitasse platea dictumst. Ut a nibh erat. Integer eu finibus sapien. Nam sem mi, ornare ac efficitur ac, dictum et augue. Vestibulum vulputate vestibulum risus, non luctus erat placerat eu. Mauris at sodales mauris. Praesent iaculis leo tempor, semper massa vehicula, aliquet risus. Morbi metus risus, sodales sed ipsum eget, pharetra ultrices nisl. Cras aliquet imperdiet lorem sed scelerisque. Aliquam sed est ullamcorper, suscipit mi quis, tincidunt diam. Integer vestibulum leo augue. Integer ut enim sit amet arcu vestibulum suscipit sed sodales libero. Aliquam dolor mauris, ultricies dapibus pellentesque eget, gravida id nibh.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23c14851-b6e8-4b1f-9c1d-d0b0bf883b35.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/23c14851-b6e8-4b1f-9c1d-d0b0bf883b35.jpg</link>
+            <guid isPermaLink="false">a193bacb-4258-4933-9bbe-c6d0215d96b6</guid>
+            <pubDate>Tue, 02 Aug 2016 19:24:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Moleskine's Comprehensive Smart Writing Set]]></title>
             <description><![CDATA[<article><h1>Moleskine's Comprehensive Smart Writing Set</h1><p>At a conference on productivity-which touched on everything from the importance of tech-free alone time to the educational and emotional benefits of writing by hand (as outlined in a series of studies on the subject)- Moleskine unveiled their latest analog-to-digital wonder.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88246302c4146bab7671eb9fd40a7ff184af1b48.jpg"></article>]]></description>
