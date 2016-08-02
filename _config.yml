@@ -1,0 +1,14 @@
+layout_spectrum: 0.8406747367698699
+typography_spectrum: 0.3699076818302274
+color:
+  brandStrength: 0.5925574044231325
+  lightness: 0.6801014803349972
+  saturation: 0.35676864022389054
+  rhythmicContrast: 0.6735322156455368
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: COCAP
