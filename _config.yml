@@ -1,4 +1,3 @@
-layout_spectrum: 0.8406747367698699
 typography_spectrum: 0.3699076818302274
 color:
   brandStrength: 0.5925574044231325
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.8406747367698699
 name: COCAP
+title: Fantastic!
 description: Foxes are red
