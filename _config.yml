@@ -11,6 +11,10 @@ color:
     - '#3A6EA5'
     - '#004E98'
 layout_spectrum: 0.8406747367698699
+author:
+  name: COCAP I/S
+  email: mail@cocap.dk
+  url: 'http://cocap.dk'
 name: COCAP
-title: COCAP
+title: Sæt skub i dit foretagende!
 description: Sæt skub i dit foretagende!
