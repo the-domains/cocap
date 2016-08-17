@@ -20,5 +20,8 @@ navigation:
   - name: mopradk
     url: 'http://mopra.dk'
     type: external
+  - name: Anders Ladegaard
+    url: 'http://anders-ladegaard.dk/'
+    type: external
 title: COCAP
 description: Sæt skub i dit foretagende!
