@@ -1,16 +1,16 @@
-typography_spectrum: 0.8545711415354162
+typography_spectrum: 0.16592377028428018
 color:
-  brandStrength: 0.9030300804879516
-  lightness: 0.5980204481165856
-  saturation: 0.3182966485619545
-  rhythmicContrast: 0.8084846725687385
+  brandStrength: 0.39159788959659636
+  lightness: 0.34670778131112456
+  saturation: 0.01761054527014494
+  rhythmicContrast: 0.5792132180649787
   brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
-layout_spectrum: 0.12106626271270216
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+layout_spectrum: 0.20240339310839772
 author:
   name: COCAP I/S
   email: mail@cocap.dk
