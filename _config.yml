@@ -16,5 +16,9 @@ author:
   email: mail@cocap.dk
   url: 'http://cocap.dk'
 name: COCAP
+navigation:
+  - name: mopradk
+    url: 'http://mopra.dk'
+    type: external
 title: COCAP
 description: Sæt skub i dit foretagende!
